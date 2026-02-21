@@ -1,4 +1,5 @@
-# 🚀 AI Smart Queue Management System
+AI Smart Queue Management System  
+Internship Project – Kanak Verma
 
 Real-time AI based queue system using YOLOv8 and Streamlit.
 
