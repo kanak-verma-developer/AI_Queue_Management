@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# YOLO model heavy files
+*.pt
+
+# outputs
+*.csv
+*.pdf
+*.log
+
+# system files
+.DS_Store
+Thumbs.db
