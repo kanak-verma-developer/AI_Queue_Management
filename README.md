@@ -14,6 +14,4 @@ Real-time AI based queue system using YOLOv8 and Streamlit.
 Python, OpenCV, YOLOv8, Streamlit, Pandas
 
 ## ▶ Run Project
-
-pip install -r requirements.txt
 streamlit run dashboard/app.py
