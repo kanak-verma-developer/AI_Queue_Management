@@ -17,4 +17,8 @@ Python, OpenCV, YOLOv8, Streamlit, Pandas
 ## ▶ Run Project
 streamlit run dashboard/app.py
 
+Admin login 
+User: admin
+Passward: 1234
+
 Note/-models/ not included due to large file size
